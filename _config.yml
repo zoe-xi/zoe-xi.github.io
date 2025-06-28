@@ -28,7 +28,7 @@ twitter_username:
 github_username:  
 
 # Build settings
-remote_theme: huangyz0918/moving
+theme: minima
 plugins:
   - jekyll-feed
 

@@ -28,7 +28,7 @@ twitter_username:
 github_username:  
 
 # Build settings
-theme: remote_theme: huangyz0918/moving
+remote_theme: huangyz0918/moving
 plugins:
   - jekyll-feed
 

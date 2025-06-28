@@ -8,9 +8,9 @@ fine-grained complexity, and cryptography.
 Previously, I was an undergrad also at MIT; then, I was very lucky to be
 advised by Bill Kuszmaul and Virginia Williams.
 
-![Zoe](https://drive.google.com/file/d/1DcHEDGpS1RVooIaw9k2fnieBCVxemAzo/view?usp=sharing)
+![Zoe](/Users/zoexi/Downloads/IMG_5294)
 
-#### Publications
+### Publications
 
 Amir Abboud, Nick Fischer, Ce Jin, Virginia Vassilevska Williams, and
 Zoe Xi, All-Pairs Shortest Paths with Few Weights per Node. In
@@ -26,7 +26,7 @@ Zoe Xi and William Kuszmaul, Approximating Dynamic Time Warping
 Distance Between Run-Length Encoded Strings. In ESA 2022.
 **Best Student Paper. Invited as a Highlight Presentation at CPM 2023.**
 
-#### Preprints
+### Preprints
 
 Zoe Xi, Variants of Baranyai’s Theorem with Additional
 Conditions. Under submission.

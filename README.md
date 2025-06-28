@@ -8,7 +8,7 @@ fine-grained complexity, and cryptography.
 Previously, I was an undergrad also at MIT; then, I was very lucky to be
 advised by Bill Kuszmaul and Virginia Williams.
 
-![Zoe](Zoe-website.jpg)
+![Zoe](./MYASSET/Zoe-website.jpg)
 
 ### Publications
 

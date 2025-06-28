@@ -7,7 +7,7 @@ layout: home
 
 <img width="400" src="Zoe-website.jpg">
 
-I'm an incoming Ph.D. student in the EECS department at MIT, where
+Hi! I'm an incoming Ph.D. student in the EECS department at MIT, where
 I'll be advised by Virginia Vassilevska Williams and Yael Tauman
 Kalai. I'm interested in theoretical computer science, especially
 algorithms, fine-grained complexity, and cryptography.

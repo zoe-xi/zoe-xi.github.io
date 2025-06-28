@@ -5,16 +5,16 @@
 layout: home
 ---
 
-<img align="right" width="400" height="300" src="Zoe-website.jpg">
-<br/><br/><br/>
-I'm an incoming Ph.D. student in the EECS department at MIT, where  
-I'll be advised by Virginia Vassilevska Williams and Yael Tauman  
-Kalai. I'm interested in theoretical computer science, especially  
-algorithms, fine-grained complexity, and cryptography.  
+<img width="400" height="300" src="Zoe-website.jpg">
 
-Previously, I was an undergrad at MIT; then, I was very lucky to be  
+I'm an incoming Ph.D. student in the EECS department at MIT, where
+I'll be advised by Virginia Vassilevska Williams and Yael Tauman
+Kalai. I'm interested in theoretical computer science, especially
+algorithms, fine-grained complexity, and cryptography.
+
+Previously, I was an undergrad at MIT; then, I was very lucky to be
 advised by Bill Kuszmaul and Virginia Williams.
-<br/><br/><br/><br/><br/><br/>
+
 ### **Publications**
 
 Amir Abboud, Nick Fischer, Ce Jin, Virginia Vassilevska Williams, and

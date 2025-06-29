@@ -13,7 +13,8 @@ Kalai. I'm interested in theoretical computer science, especially
 algorithms, fine-grained complexity, and cryptography.
 
 Previously, I was an undergrad at MIT; then, I was very lucky to be
-advised by Bill Kuszmaul and Virginia Williams.
+advised by Bill Kuszmaul and Virginia Williams. I also spent a summer
+at the Duluth REU run by Joe Gallian and Colin Defant.
 
 You can reach me at zoexi at mit dot edu.
 

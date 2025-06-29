@@ -17,9 +17,7 @@ advised by Bill Kuszmaul and Virginia Williams. I also spent a summer
 at the Duluth REU run by Joe Gallian and Colin Defant.
 
 You can reach me at zoexi at mit dot edu.
-
----
-
+<br/><br/>
 ## **Publications**
 
 Amir Abboud, Nick Fischer, Ce Jin, Virginia Vassilevska Williams, and
@@ -38,9 +36,7 @@ Zoe Xi and William Kuszmaul, [Approximating Dynamic Time Warping
 Distance Between Run-Length Encoded Strings](https://arxiv.org/abs/2207.00915).  
 In ESA 2022.  
 **Best Student Paper. Invited as a Highlight Presentation at CPM 2023.**
-
----
-
+<br/><br/>
 ## **Preprints**
 
 Zoe Xi, [Variants of Baranyai’s Theorem with Additional

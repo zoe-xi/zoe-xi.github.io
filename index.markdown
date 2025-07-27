@@ -41,3 +41,7 @@ In ESA 2022.
 
 Zoe Xi, [Variants of Baranyai’s Theorem with Additional
 Conditions](https://arxiv.org/abs/2410.08513). Under submission.
+
+Nathan S. Sheffield and Zoe Xi, [Graphs With the Same Edge Count in
+Each Neighborhood](https://arxiv.org/abs/2507.14473). Under
+submission.

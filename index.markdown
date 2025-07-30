@@ -18,7 +18,7 @@ at the Duluth REU run by Joe Gallian and Colin Defant.
 
 You can reach me at zoexi at mit dot edu.
 <br/><br/>
-## **_Publications_**
+## **Publications**
 
 Amir Abboud, Nick Fischer, Ce Jin, Virginia Vassilevska Williams, and
 Zoe Xi, [All-Pairs Shortest Paths with Few Weights per Node](https://www.arxiv.org/abs/2506.20017).  
@@ -37,7 +37,7 @@ Distance Between Run-Length Encoded Strings](https://arxiv.org/abs/2207.00915).
 In ESA 2022.  
 **Best Student Paper. Invited as a Highlight Presentation at CPM 2023.**
 <br/><br/>
-## **_Preprints_**
+## **Preprints**
 
 Zoe Xi, [Variants of Baranyai’s Theorem with Additional
 Conditions](https://arxiv.org/abs/2410.08513). Under submission.

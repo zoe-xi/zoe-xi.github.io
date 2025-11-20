@@ -7,14 +7,17 @@ layout: home
 
 <img width="400" src="Zoe-website.jpg">
 
-I'm an incoming Ph.D. student in the EECS department at MIT, where
-I'll be advised by Virginia Vassilevska Williams and Yael Tauman
-Kalai. I'm interested in theoretical computer science, especially
-algorithms, fine-grained complexity, and cryptography.
+I'm a first-year Ph.D. student in the EECS department at MIT, where
+I'm fortunate to be advised by Yael Tauman Kalai and Ryan
+Williams. Before this, I was an undergrad at MIT; then, I was
+extremely lucky to be advised by Bill Kuszmaul and Virginia
+Vassilevska Williams. I also spent a summer at the Duluth REU run by
+Joe Gallian and Colin Defant.
 
-Previously, I was an undergrad at MIT; then, I was very lucky to be
-advised by Bill Kuszmaul and Virginia Williams. I also spent a summer
-at the Duluth REU run by Joe Gallian and Colin Defant.
+I'm broadly interested in theoretical computer science. Most of my
+past/undergrad work has been in algorithms and fine-grained
+complexity. Lately I've become interested in connections between
+complexity theory and cryptography.
 
 You can reach me at zoexi at mit dot edu.
 <br/><br/>

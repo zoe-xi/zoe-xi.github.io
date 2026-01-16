@@ -14,10 +14,10 @@ extremely lucky to be advised by Bill Kuszmaul and Virginia
 Vassilevska Williams. I also spent a summer at the Duluth REU run by
 Joe Gallian and Colin Defant.
 
-I'm broadly interested in theoretical computer science. Most of my
-past/undergrad work has been in algorithms and fine-grained
-complexity. Lately I've become interested in connections between
-complexity theory and cryptography.
+I'm broadly interested in theoretical computer science. I've done
+research in algorithms and fine-grained complexity. Lately I've become
+interested in connections between complexity theory, cryptography, and
+AI safety.
 
 You can reach me at zoexi at mit dot edu.
 <br/><br/>

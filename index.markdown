@@ -19,9 +19,6 @@ research in graph algorithms, fine-grained complexity, and data
 structures. Lately I've become excited about applying concepts from
 complexity theory and cryptography towards understanding AI safety.
 
-connections between
-complexity theory, cryptography, and AI safety.
-
 You can reach me at zoexi at mit dot edu.
 <br/><br/>
 ## **Publications**

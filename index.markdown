@@ -17,7 +17,7 @@ Joe Gallian and Colin Defant.
 I'm broadly interested in theoretical computer science. I've done
 research in graph algorithms, fine-grained complexity, and data
 structures. Lately I've become excited about applying concepts from
-complexity theory and cryptography towards understanding AI safety.
+complexity theory and cryptography towards understanding AI alignment.
 
 You can reach me at zoexi at mit dot edu.
 <br/><br/>

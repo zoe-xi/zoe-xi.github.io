@@ -7,21 +7,21 @@ layout: home
 
 <img width="400" src="Zoe-website.jpg">
 
-I'm a first-year Ph.D. student in the EECS department at MIT, where
-I'm fortunate to be advised by Yael Tauman Kalai and Ryan
-Williams. Before this, I was an undergrad at MIT; then, I was
+Hi, I'm Zoe, a first-year Ph.D. student in the EECS department at
+MIT, where I'm fortunate to be advised by Yael Tauman Kalai and Ryan
+Williams. Before this, I was an undergrad at MIT, and then I was
 extremely lucky to be advised by Bill Kuszmaul and Virginia
-Vassilevska Williams. I also spent a summer at the Duluth REU run by
-Joe Gallian and Colin Defant.
+Vassilevska Williams.
 
 I'm broadly interested in theoretical computer science. I've done
 research in graph algorithms, fine-grained complexity, and data
-structures. Lately I've become excited about applying concepts from
-complexity theory and cryptography towards understanding AI alignment.
+structures. Lately I've become interested in exploring connections
+between complexity theory and cryptography and trying to apply ideas
+from these areas to study problems in AI safety.
 
 You can reach me at zoexi at mit dot edu.
 <br/><br/>
-## **Publications**
+## ***Publications***
 
 Amir Abboud, Nick Fischer, Ce Jin, Virginia Vassilevska Williams, and
 Zoe Xi, [All-Pairs Shortest Paths with Few Weights per Node](https://www.arxiv.org/abs/2506.20017).  
@@ -38,16 +38,15 @@ In ICALP 2024.
 Zoe Xi and William Kuszmaul, [Approximating Dynamic Time Warping
 Distance Between Run-Length Encoded Strings](https://arxiv.org/abs/2207.00915).  
 In ESA 2022.  
-**Best Student Paper. Invited as a Highlight Presentation at CPM 2023.**
+***Best Student Paper. Invited as a Highlight Presentation at CPM 2023.***
 <br/><br/>
-## **Preprints**
+## ***Preprints***
 
 Zoe Xi, [Variants of Baranyai’s Theorem with Additional
-Conditions](https://arxiv.org/abs/2410.08513). Under submission.
+Conditions](https://arxiv.org/abs/2410.08513). 
 
 Nathan S. Sheffield and Zoe Xi, [Graphs With the Same Edge Count in
-Each Neighborhood](https://arxiv.org/abs/2507.14473). Under
-submission.
+Each Neighborhood](https://arxiv.org/abs/2507.14473). 
 
 
 

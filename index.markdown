@@ -16,8 +16,8 @@ Vassilevska Williams.
 I'm broadly interested in theoretical computer science. I've done
 research in graph algorithms, fine-grained complexity, and data
 structures. Lately I've become interested in exploring connections
-between complexity theory and cryptography and trying to apply ideas
-from these areas to study problems in AI safety.
+between complexity theory and cryptography and thinking about how we
+could apply ideas from these areas to study problems in AI safety.
 
 You can reach me at zoexi at mit dot edu.
 <br/><br/>

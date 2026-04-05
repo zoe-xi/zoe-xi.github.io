@@ -21,7 +21,7 @@ from these areas to study problems in AI safety.
 
 You can reach me at zoexi at mit dot edu.
 <br/><br/>
-## ***Publications***
+## **Publications**
 
 Amir Abboud, Nick Fischer, Ce Jin, Virginia Vassilevska Williams, and
 Zoe Xi, [All-Pairs Shortest Paths with Few Weights per Node](https://www.arxiv.org/abs/2506.20017).  
@@ -38,9 +38,9 @@ In ICALP 2024.
 Zoe Xi and William Kuszmaul, [Approximating Dynamic Time Warping
 Distance Between Run-Length Encoded Strings](https://arxiv.org/abs/2207.00915).  
 In ESA 2022.  
-***Best Student Paper. Invited as a Highlight Presentation at CPM 2023.***
+**Best Student Paper. Invited as a Highlight Presentation at CPM 2023.**
 <br/><br/>
-## ***Preprints***
+## **Preprints**
 
 Zoe Xi, [Variants of Baranyai’s Theorem with Additional
 Conditions](https://arxiv.org/abs/2410.08513). 

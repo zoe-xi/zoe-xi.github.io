@@ -7,8 +7,8 @@ layout: home
 
 <img width="400" src="Zoe-website.jpg">
 
-Hi, I'm Zoe, a first-year Ph.D. student in the EECS department at
-MIT, where I'm fortunate to be advised by Yael Tauman Kalai and Ryan
+Hi, I'm Zoe, a first-year Ph.D. student in the EECS department at MIT.
+I'm fortunate to be advised by Yael Tauman Kalai and Ryan
 Williams. Before this, I was an undergrad at MIT, and then I was
 extremely lucky to be advised by Bill Kuszmaul and Virginia
 Vassilevska Williams.

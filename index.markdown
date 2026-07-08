@@ -7,21 +7,29 @@ layout: home
 
 <img width="400" src="Zoe-website.jpg">
 
-Hi, I'm Zoe, a first-year Ph.D. student in the EECS department at MIT.
-I'm fortunate to be advised by Yael Tauman Kalai and Ryan
-Williams. Before this, I was an undergrad at MIT, and then I was
-extremely lucky to be advised by Bill Kuszmaul and Virginia
-Vassilevska Williams.
+Hi, I'm Zoe, a first-year Ph.D. student in the EECS department at
+MIT. I'm fortunate to be advised by [Yael Tauman
+Kalai](https://www.csail.mit.edu/person/yael-kalai) and [Ryan
+Williams](https://people.csail.mit.edu/rrw/). Before this, I did my
+undergrad at MIT, and then I was extremely lucky to be advised by
+[Bill Kuszmaul](https://sites.google.com/site/williamkuszmaul) and
+[Virginia Vassilevska Williams](https://people.csail.mit.edu/virgi/).
 
-I'm broadly interested in theoretical computer science. I've done
-research in graph algorithms, fine-grained complexity, and data
-structures. Lately I've become interested in exploring connections
-between complexity theory and cryptography and thinking about how we
-could apply ideas from these areas to study problems in AI safety.
+I'm interested in theoretical computer science broadly, and currenly
+am excited about exploring connections between complexity theory and
+cryptography, and thinking about how we might apply ideas from these
+areas to study problems in AI safety.
 
 You can reach me at zoexi at mit dot edu.
 <br/><br/>
-## **Publications**
+## **Publications** 
+
+Liyan Chen, Yael Tauman Kalai, and Zoe Xi, [How to Avoid Debate:
+Scalable AI Safety via Doubly-Efficient Interactive Proofs](https://arxiv.org/abs/2607.03561).  
+In ICML 2026. 
+
+Zoe Xi, [Variants of Baranyai’s Theorem with Additional Conditions](https://arxiv.org/abs/2410.08513).  
+In Discrete Mathematics, 349 (2026).
 
 Amir Abboud, Nick Fischer, Ce Jin, Virginia Vassilevska Williams, and
 Zoe Xi, [All-Pairs Shortest Paths with Few Weights per Node](https://www.arxiv.org/abs/2506.20017).  
@@ -42,8 +50,11 @@ In ESA 2022.
 <br/><br/>
 ## **Preprints**
 
-Zoe Xi, [Variants of Baranyai’s Theorem with Additional
-Conditions](https://arxiv.org/abs/2410.08513). 
+Liyan Chen, Matthew M. Hong, Yael Tauman Kalai, and Zoe Xi, [Towards a
+Doubly Efficient IP = PSPACE](https://arxiv.org/abs/2606.21799).
+
+Nathan S. Sheffield, Virginia Vassilevska Williams, and Zoe Xi, The
+Limits of Black-Box Reductions for All-Pairs Triangle Detection.
 
 Nathan S. Sheffield and Zoe Xi, [Graphs With the Same Edge Count in
 Each Neighborhood](https://arxiv.org/abs/2507.14473). 

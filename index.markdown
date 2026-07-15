@@ -15,7 +15,7 @@ undergrad at MIT, and then I was extremely lucky to be advised by
 [Bill Kuszmaul](https://sites.google.com/site/williamkuszmaul) and
 [Virginia Vassilevska Williams](https://people.csail.mit.edu/virgi/).
 
-I'm interested in theoretical computer science broadly, and currenly
+I'm interested in theoretical computer science broadly, and currently
 am excited about exploring connections between complexity theory and
 cryptography, and thinking about how we might apply ideas from these
 areas to study problems in AI safety.

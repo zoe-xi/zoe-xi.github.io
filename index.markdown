@@ -22,33 +22,33 @@ areas to study problems in AI safety.
 
 You can reach me at zoexi at mit dot edu.
 <br/><br/>
-## **Publications** 
+## _**Publications**_
 
 Liyan Chen, Yael Tauman Kalai, and Zoe Xi, [How to Avoid Debate:
 Scalable AI Safety via Doubly-Efficient Interactive Proofs](https://arxiv.org/abs/2607.03561).  
-In ICML 2026. 
+In _ICML_ 2026. 
 
 Zoe Xi, [Variants of Baranyai’s Theorem with Additional Conditions](https://arxiv.org/abs/2410.08513).  
-In Discrete Mathematics, 349 (2026).
+In _Discrete Mathematics,_ 349 (2026).
 
 Amir Abboud, Nick Fischer, Ce Jin, Virginia Vassilevska Williams, and
 Zoe Xi, [All-Pairs Shortest Paths with Few Weights per Node](https://www.arxiv.org/abs/2506.20017).  
-In STOC 2025.
+In _STOC_ 2025.
 
 Virginia Vassilevska Williams, Zoe Xi, Yinzhan Xu, and Uri Zwick,
 [All-Hops Shortest Paths](https://arxiv.org/abs/2410.23617).  
-In SODA 2025.
+In _SODA_ 2025.
 
 William Kuszmaul and Zoe Xi, [Towards an Analysis of Quadratic
 Probing](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2024.103).  
-In ICALP 2024.
+In _ICALP_ 2024.
 
 Zoe Xi and William Kuszmaul, [Approximating Dynamic Time Warping
 Distance Between Run-Length Encoded Strings](https://arxiv.org/abs/2207.00915).  
-In ESA 2022.  
+In _ESA_ 2022.  
 **Best Student Paper. Invited as a Highlight Presentation at CPM 2023.**
 <br/><br/>
-## **Preprints**
+## _**Preprints**_
 
 Liyan Chen, Matthew M. Hong, Yael Tauman Kalai, and Zoe Xi, [Towards a
 Doubly Efficient IP = PSPACE](https://arxiv.org/abs/2606.21799).

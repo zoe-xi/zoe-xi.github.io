@@ -22,7 +22,7 @@ areas to study problems in AI safety.
 
 You can reach me at zoexi at mit dot edu.
 <br/><br/>
-## _**Publications**_
+## _Publications_
 
 Liyan Chen, Yael Tauman Kalai, and Zoe Xi, [How to Avoid Debate:
 Scalable AI Safety via Doubly-Efficient Interactive Proofs](https://arxiv.org/abs/2607.03561).  
@@ -48,7 +48,7 @@ Distance Between Run-Length Encoded Strings](https://arxiv.org/abs/2207.00915).
 In ESA 2022.  
 **Best Student Paper. Invited as a Highlight Presentation at CPM 2023.**
 <br/><br/>
-## _**Preprints**_
+## _Preprints_
 
 Liyan Chen, Matthew M. Hong, Yael Tauman Kalai, and Zoe Xi, [Towards a
 Doubly Efficient IP = PSPACE](https://arxiv.org/abs/2606.21799).

@@ -22,7 +22,7 @@ areas to study problems in AI safety.
 
 You can reach me at zoexi at mit dot edu.
 <br/><br/>
-## _Publications_
+## Publications
 
 Liyan Chen, Yael Tauman Kalai, and Zoe Xi, [How to Avoid Debate:
 Scalable AI Safety via Doubly-Efficient Interactive Proofs](https://arxiv.org/abs/2607.03561).  
@@ -48,13 +48,14 @@ Distance Between Run-Length Encoded Strings](https://arxiv.org/abs/2207.00915).
 In ESA 2022.  
 **Best Student Paper. Invited as a Highlight Presentation at CPM 2023.**
 <br/><br/>
-## _Preprints_
+## Preprints
 
 Liyan Chen, Matthew M. Hong, Yael Tauman Kalai, and Zoe Xi, [Towards a
 Doubly Efficient IP = PSPACE](https://arxiv.org/abs/2606.21799).
 
-Nathan S. Sheffield, Virginia Vassilevska Williams, and Zoe Xi, The
-Limits of Black-Box Reductions for All-Pairs Triangle Detection.
+Nathan S. Sheffield, Virginia Vassilevska Williams, and Zoe Xi, [The
+Limits of Black-Box Reductions for All-Pairs Triangle
+Detection](https://arxiv.org/abs/2608.19092).
 
 Nathan S. Sheffield and Zoe Xi, [Graphs With the Same Edge Count in
 Each Neighborhood](https://arxiv.org/abs/2507.14473). 

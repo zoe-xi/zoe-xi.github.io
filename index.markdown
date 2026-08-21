@@ -53,7 +53,7 @@ In ESA 2022.
 Liyan Chen, Matthew M. Hong, Yael Tauman Kalai, and Zoe Xi, [Towards a
 Doubly Efficient IP = PSPACE](https://arxiv.org/abs/2606.21799).
 
-Nathan S. Sheffield, Virginia Vassilevska Williams, and Zoe Xi, [The
+Nathan Sheffield, Virginia Vassilevska Williams, and Zoe Xi, [The
 Limits of Black-Box Reductions for All-Pairs Triangle
 Detection](https://arxiv.org/abs/2608.19092).
 

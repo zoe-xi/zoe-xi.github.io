@@ -7,7 +7,7 @@ layout: home
 
 <img width="400" src="Zoe-website.jpg">
 
-Hi, I'm Zoe, a first-year Ph.D. student in the EECS department at
+Hi, I'm Zoe, a second-year Ph.D. student in the EECS department at
 MIT. I'm fortunate to be advised by [Yael Tauman
 Kalai](https://www.csail.mit.edu/person/yael-kalai) and [Ryan
 Williams](https://people.csail.mit.edu/rrw/). Before this, I did my
@@ -26,7 +26,8 @@ You can reach me at zoexi at mit dot edu.
 
 Liyan Chen, Yael Tauman Kalai, and Zoe Xi, [How to Avoid Debate:
 Scalable AI Safety via Doubly-Efficient Interactive Proofs](https://arxiv.org/abs/2607.03561).  
-In ICML 2026. 
+In ICML 2026.  
+[[link to poster](https://icml.cc/media/PosterPDFs/ICML%202026/60508.png?t=1782965594.3301747)]
 
 Zoe Xi, [Variants of Baranyai’s Theorem with Additional Conditions](https://arxiv.org/abs/2410.08513).  
 In Discrete Mathematics, 349 (2026).
@@ -58,7 +59,7 @@ Limits of Black-Box Reductions for All-Pairs Triangle
 Detection](https://arxiv.org/abs/2608.19092).
 
 Nathan S. Sheffield and Zoe Xi, [Graphs With the Same Edge Count in
-Each Neighborhood](https://arxiv.org/abs/2507.14473). 
+Each Neighborhood](https://arxiv.org/abs/2507.14473).
 
 
 

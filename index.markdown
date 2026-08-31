@@ -27,7 +27,7 @@ You can reach me at zoexi at mit dot edu.
 Liyan Chen, Yael Tauman Kalai, and Zoe Xi, [How to Avoid Debate:
 Scalable AI Safety via Doubly-Efficient Interactive Proofs](https://arxiv.org/abs/2607.03561).  
 In ICML 2026.  
-[[link to poster](https://icml.cc/media/PosterPDFs/ICML%202026/60508.png?t=1782965594.3301747)]
+[[poster](https://icml.cc/media/PosterPDFs/ICML%202026/60508.png?t=1782965594.3301747)]
 
 Zoe Xi, [Variants of Baranyai’s Theorem with Additional Conditions](https://arxiv.org/abs/2410.08513).  
 In Discrete Mathematics, 349 (2026).

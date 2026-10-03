@@ -10,10 +10,10 @@ layout: home
 Hi, I'm Zoe, a second-year Ph.D. student in the EECS department at
 MIT. I'm fortunate to be advised by [Yael Tauman
 Kalai](https://www.csail.mit.edu/person/yael-kalai) and [Ryan
-Williams](https://people.csail.mit.edu/rrw/). Before this, I did my
-undergrad at MIT, and then I was very lucky to be advised by
-[Bill Kuszmaul](https://sites.google.com/site/williamkuszmaul) and
-[Virginia Vassilevska Williams](https://people.csail.mit.edu/virgi/).
+Williams](https://people.csail.mit.edu/rrw/). Before this, I was an
+undergrad at MIT, and then I was very lucky to be advised by [Bill
+Kuszmaul](https://sites.google.com/site/williamkuszmaul) and [Virginia
+Vassilevska Williams](https://people.csail.mit.edu/virgi/).
 
 I'm interested in theoretical computer science broadly, and currently
 am excited about exploring connections between complexity theory and

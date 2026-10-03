@@ -24,6 +24,11 @@ You can reach me at zoexi at mit dot edu.
 <br/><br/>
 ## _Publications_
 
+Nathan Sheffield, Virginia Vassilevska Williams, and Zoe Xi, [The
+Limits of Black-Box Reductions for All-Pairs Triangle
+Detection](https://arxiv.org/abs/2608.19092).  
+To appear in SODA 2027.
+
 Liyan Chen, Yael Tauman Kalai, and Zoe Xi, [How to Avoid Debate:
 Scalable AI Safety via Doubly-Efficient Interactive Proofs](https://arxiv.org/abs/2607.03561).  
 In ICML 2026.  
@@ -53,10 +58,6 @@ In ESA 2022.
 
 Liyan Chen, Matthew M. Hong, Yael Tauman Kalai, and Zoe Xi, [Towards a
 Doubly Efficient IP = PSPACE](https://arxiv.org/abs/2606.21799).
-
-Nathan Sheffield, Virginia Vassilevska Williams, and Zoe Xi, [The
-Limits of Black-Box Reductions for All-Pairs Triangle
-Detection](https://arxiv.org/abs/2608.19092).
 
 Nathan S. Sheffield and Zoe Xi, [Graphs With the Same Edge Count in
 Each Neighborhood](https://arxiv.org/abs/2507.14473).
